@@ -5,15 +5,14 @@
 * Assets imported
 * Backgound selected
   - Exploring background options changes modification state and saving updates mod time on scene file, even if original background is selected.
-* Scripts folder
-  - Player controller script created & attached to player
 * Lesson branch created
 * Commit made & pushed
 ## Step 3: Player Character Added To Scene & Set Up
 * Object called "Player" with:
   - BoxCollider
   - Rigidbody
-  - Script named PlayerController
+  - Script named PlayerController attached to Player
+* Scripts folder
 ## Step 4: Start PlayerController Script - Character Jumps At Start
 ## Step 5: Player Character Jumps When Spacebar Is Pressed
 ## Step 6: Adjust Jump Parameters
