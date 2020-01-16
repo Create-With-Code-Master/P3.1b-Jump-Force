@@ -10,6 +10,10 @@
 * Lesson branch created
 * Commit made & pushed
 ## Step 3: Player Character Added To Scene & Set Up
+* Object called "Player" with:
+  - BoxCollider
+  - Rigidbody
+  - Script named PlayerController
 ## Step 4: Start PlayerController Script - Character Jumps At Start
 ## Step 5: Player Character Jumps When Spacebar Is Pressed
 ## Step 6: Adjust Jump Parameters
